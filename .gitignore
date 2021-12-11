@@ -1,0 +1,6 @@
+.DS_Store
+
+venv39/
+
+.pytest_cache/
+__pycache__/
